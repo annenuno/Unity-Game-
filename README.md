@@ -1,6 +1,8 @@
 ## Unity-Game-
 Recreation of super Mario bros game in unity! 
 
+<img align="right" alt="PNG" src="https://github.com/annenuno/Unity-Game-/blob/main/Screen%20Shot%202022-01-26%20at%2012.28.07%20PM.png" width="500" height="320" />
+
 ### This game was part of a school project I had in my video game design class
 -IMPORTANT NOTE: I couldnt upload the Library folder of the game since it is a big document (even though I compressed it).
 
